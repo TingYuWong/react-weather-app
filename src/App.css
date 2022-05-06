@@ -1,0 +1,21 @@
+/* @media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+} */
+
+.App {
+  width: 100vw;
+  min-height: 100vh;
+  background-color: rgb(136, 186, 255);
+  /* background-image: url('./assets/images/bg.jpg'); */
+  /* object-fit: cover; */
+}
+
+.location {
+  color: rgb(229, 227, 255);
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: calc(0.75rem + 10vw);
+  font-weight: bold;
+  text-align: center;
+}
